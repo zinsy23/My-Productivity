@@ -1,3 +1,4 @@
+mNumber = 0
 `::
 mNumber = 0
 mUsed = 1
